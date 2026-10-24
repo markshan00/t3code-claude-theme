@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<title id="title">Claude Desktop for T3 Code — Light and dark palette previews</title>
+<desc id="desc">Illustrative interface layouts using the actual 57-role light and dark palettes.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Menlo,Consolas,monospace}</style>
+<rect x="0" y="0" width="1280" height="720" rx="0" fill="#f4f1eb" stroke="none"/>
+<text x="40" y="47" font-size="13" fill="#806e62" font-weight="700" class="">CLAUDE DESKTOP / T3 CODE</text>
+<text x="40" y="101" font-size="36" fill="#29251f" font-weight="600" class="">A familiar palette. A space to build.</text>
+<text x="40" y="134" font-size="17" fill="#766b61" font-weight="400" class="">Warm neutrals, a clay accent, and two complete appearances.</text>
+<text x="40" y="184" font-size="12" fill="#806e62" font-weight="700" class="">LIGHT</text>
+<rect x="40" y="204" width="584" height="406" rx="12" fill="#fcfcfb" stroke="#e4e4e3"/>
+<clipPath id="clip-LIGHT"><rect x="40" y="204" width="584" height="406" rx="12"/></clipPath><g clip-path="url(#clip-LIGHT)">
+<rect x="40" y="204" width="136" height="406" rx="0" fill="#fcfcfb" stroke="none"/>
+<rect x="176" y="204" width="1" height="406" rx="0" fill="#e4e4e3" stroke="none"/>
+<text x="58" y="234" font-size="10" fill="#52514e" font-weight="700" class="">WORKSPACE</text>
+<rect x="52" y="251" width="112" height="29" rx="6" fill="#ffffff" stroke="#e4e4e3"/>
+<text x="62" y="270" font-size="12" fill="#0b0b0b" font-weight="400" class="">+  New task</text>
+<text x="58" y="312" font-size="11" fill="#52514e" font-weight="400" class="">Sample project</text>
+<rect x="49" y="326" width="118" height="33" rx="6" fill="#f0f0ef" stroke="none"/>
+<text x="58" y="347" font-size="12" fill="#0b0b0b" font-weight="600" class="">Theme preview</text>
+<text x="58" y="382" font-size="12" fill="#52514e" font-weight="400" class="">Interface polish</text>
+<text x="58" y="414" font-size="12" fill="#52514e" font-weight="400" class="">Explore an idea</text>
+<text x="58" y="584" font-size="12" fill="#52514e" font-weight="400" class="">Settings</text>
+<rect x="177" y="204" width="447" height="45" rx="0" fill="#fcfcfb" stroke="none"/>
+<rect x="177" y="249" width="447" height="1" rx="0" fill="#e4e4e3" stroke="none"/>
+<text x="199" y="232" font-size="13" fill="#0b0b0b" font-weight="600" class="">Theme preview</text>
+<rect x="245" y="269" width="355" height="38" rx="9" fill="#f0f0ef" stroke="none"/>
+<text x="260" y="293" font-size="14" fill="#0b0b0b" font-weight="400" class="">Make the workspace feel familiar.</text>
+<text x="199" y="341" font-size="16" fill="#0b0b0b" font-weight="600" class="">A calmer place to think and build.</text>
+<text x="199" y="370" font-size="13" fill="#52514e" font-weight="400" class="">Warm surfaces. Clear text. A clay accent.</text>
+<rect x="199" y="392" width="401" height="91" rx="7" fill="#ffffff" stroke="#e4e4e3"/>
+<text x="214" y="413" font-size="10" fill="#52514e" font-weight="400" class="mono">theme.json</text>
+<text x="214" y="439" font-size="13" fill="#0b0b0b" font-weight="400" class="mono">&quot;appearance&quot;: &quot;light&quot;,</text>
+<text x="214" y="463" font-size="13" fill="#c6613f" font-weight="400" class="mono">&quot;accent&quot;: &quot;#c6613f&quot;</text>
+<rect x="199" y="506" width="401" height="83" rx="10" fill="#ffffff" stroke="#e4e4e3"/>
+<text x="214" y="534" font-size="13" fill="#898781" font-weight="400" class="">Ask anything…</text>
+<text x="214" y="569" font-size="11" fill="#52514e" font-weight="400" class="">+   Attach</text>
+<rect x="560" y="548" width="27" height="27" rx="8" fill="#c6613f" stroke="none"/>
+<text x="567" y="568" font-size="20" fill="#ffffff" font-weight="600" class="">↑</text>
+</g>
+<rect x="40" y="630" width="20" height="20" rx="5" fill="#fcfcfb" stroke="#cfc8be"/>
+<rect x="67" y="630" width="20" height="20" rx="5" fill="#fcfcfb" stroke="#cfc8be"/>
+<rect x="94" y="630" width="20" height="20" rx="5" fill="#0b0b0b" stroke="none"/>
+<rect x="121" y="630" width="20" height="20" rx="5" fill="#52514e" stroke="none"/>
+<rect x="148" y="630" width="20" height="20" rx="5" fill="#c6613f" stroke="none"/>
+<rect x="175" y="630" width="20" height="20" rx="5" fill="#184f95" stroke="none"/>
+<text x="218" y="645" font-size="12" fill="#766b61" font-weight="400" class="">57 color roles</text>
+<text x="656" y="184" font-size="12" fill="#806e62" font-weight="700" class="">DARK</text>
+<rect x="656" y="204" width="584" height="406" rx="12" fill="#151515" stroke="#2c2c2c"/>
+<clipPath id="clip-DARK"><rect x="656" y="204" width="584" height="406" rx="12"/></clipPath><g clip-path="url(#clip-DARK)">
+<rect x="656" y="204" width="136" height="406" rx="0" fill="#111111" stroke="none"/>
+<rect x="792" y="204" width="1" height="406" rx="0" fill="#292929" stroke="none"/>
+<text x="674" y="234" font-size="10" fill="#c3c2b7" font-weight="700" class="">WORKSPACE</text>
+<rect x="668" y="251" width="112" height="29" rx="6" fill="#1a1a19" stroke="#292929"/>
+<text x="678" y="270" font-size="12" fill="#f0efec" font-weight="400" class="">+  New task</text>
+<text x="674" y="312" font-size="11" fill="#c3c2b7" font-weight="400" class="">Sample project</text>
+<rect x="665" y="326" width="118" height="33" rx="6" fill="#353535" stroke="none"/>
+<text x="674" y="347" font-size="12" fill="#f0efec" font-weight="600" class="">Theme preview</text>
+<text x="674" y="382" font-size="12" fill="#c3c2b7" font-weight="400" class="">Interface polish</text>
+<text x="674" y="414" font-size="12" fill="#c3c2b7" font-weight="400" class="">Explore an idea</text>
+<text x="674" y="584" font-size="12" fill="#c3c2b7" font-weight="400" class="">Settings</text>
+<rect x="793" y="204" width="447" height="45" rx="0" fill="#151515" stroke="none"/>
+<rect x="793" y="249" width="447" height="1" rx="0" fill="#2c2c2c" stroke="none"/>
+<text x="815" y="232" font-size="13" fill="#f0efec" font-weight="600" class="">Theme preview</text>
+<rect x="861" y="269" width="355" height="38" rx="9" fill="#212121" stroke="none"/>
+<text x="876" y="293" font-size="14" fill="#f0efec" font-weight="400" class="">Make the workspace feel familiar.</text>
+<text x="815" y="341" font-size="16" fill="#f0efec" font-weight="600" class="">A calmer place to think and build.</text>
+<text x="815" y="370" font-size="13" fill="#c3c2b7" font-weight="400" class="">Warm surfaces. Clear text. A clay accent.</text>
+<rect x="815" y="392" width="401" height="91" rx="7" fill="#1a1a19" stroke="#2c2c2c"/>
+<text x="830" y="413" font-size="10" fill="#c3c2b7" font-weight="400" class="mono">theme.json</text>
+<text x="830" y="439" font-size="13" fill="#f0efec" font-weight="400" class="mono">&quot;appearance&quot;: &quot;dark&quot;,</text>
+<text x="830" y="463" font-size="13" fill="#c6613f" font-weight="400" class="mono">&quot;accent&quot;: &quot;#c6613f&quot;</text>
+<rect x="815" y="506" width="401" height="83" rx="10" fill="#1a1a19" stroke="#2c2c2c"/>
+<text x="830" y="534" font-size="13" fill="#898781" font-weight="400" class="">Ask anything…</text>
+<text x="830" y="569" font-size="11" fill="#c3c2b7" font-weight="400" class="">+   Attach</text>
+<rect x="1176" y="548" width="27" height="27" rx="8" fill="#c6613f" stroke="none"/>
+<text x="1183" y="568" font-size="20" fill="#ffffff" font-weight="600" class="">↑</text>
+</g>
+<rect x="656" y="630" width="20" height="20" rx="5" fill="#151515" stroke="none"/>
+<rect x="683" y="630" width="20" height="20" rx="5" fill="#111111" stroke="none"/>
+<rect x="710" y="630" width="20" height="20" rx="5" fill="#f0efec" stroke="none"/>
+<rect x="737" y="630" width="20" height="20" rx="5" fill="#c3c2b7" stroke="none"/>
+<rect x="764" y="630" width="20" height="20" rx="5" fill="#c6613f" stroke="none"/>
+<rect x="791" y="630" width="20" height="20" rx="5" fill="#6da7ec" stroke="none"/>
+<text x="834" y="645" font-size="12" fill="#766b61" font-weight="400" class="">57 color roles</text>
+<text x="40" y="691" font-size="12" fill="#806e62" font-weight="400" class="">Illustrative previews · Actual theme colors · No application screenshots or private content</text>
+</svg>
